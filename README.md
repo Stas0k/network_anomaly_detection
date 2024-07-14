@@ -2,7 +2,7 @@
 
 **Course**: (66219) Introduction to Machine Learning in Cybersecurity\
 **Lecturer**: [Dr. Uri Itai](https://medium.com/@uriitai)\
-**Assignee**: Stas Susha, 323562439
+**Assignee**: Stas Susha
 
 # Abstract
 
