@@ -12,9 +12,7 @@ __Research objectives__:
 
 * **Dataset Exploration** - examin UNSW-NB15 dataset, it's features, structure, etc.
 * **Feature Engineering** - extract relevant features and transform them into suitable format for ML algorithms
-
 * **Model Selection and Evaluation** - explore various ML techniques, such as Decision Tree, Random Forest, XGB Classifier, etc.
-
 * **Performance Metrics** - evaluate model performance using metircs like precision, recall, F1-score AUC-ROC.
 
 # Dataset
