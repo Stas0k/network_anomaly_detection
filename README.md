@@ -1,7 +1,7 @@
 # Network Traffic Anomaly Detection (Final Assignment)
 
-**Course**: (66219) Introduction to Machine Learning in Cybersecurity
-**Lecturer**: [Dr. Uri Itai](https://medium.com/@uriitai)
+**Course**: (66219) Introduction to Machine Learning in Cybersecurity\
+**Lecturer**: [Dr. Uri Itai](https://medium.com/@uriitai)\
 **Assignee**: Stas Susha, 323562439
 
 # Abstract
